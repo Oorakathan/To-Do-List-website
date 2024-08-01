@@ -5,12 +5,18 @@ HTML, CSS, Javascript
 # JavaScript Logic Explanation
 Below is an explanation of how the JavaScript code is structured and functions. The line numbers correspond to those in your JavaScript file. 
 
+# Note:
+## Line Number:  
+The numbers in the notes correspond to the lines in your JavaScript file. Some lines are out of order to match the logical flow of the application.
+
+
+
 # Creating Constant Variables:
 
 1. ## `inputBox`
 A constant variable that gets the value from the element with the ID `input-box`
 
-2. ## `listContainer
+2. ## `listContainer`
  A constant variable that gets the value from the element with the ID `list-container`
 
 # Function Definitions:
@@ -95,10 +101,6 @@ On page load or refresh, set `listContainer.innerHTML` to the content retrieved 
 
 41. ## Call `showTask()`:
 Immediately call `showTask()` to display the saved tasks when the page loads.
-
-# Note:
-## Line Number:  
-The numbers in the notes correspond to the lines in your JavaScript file. Some lines are out of order to match the logical flow of the application.
 
 
 
