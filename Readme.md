@@ -82,10 +82,10 @@ Store the entire content of `listContainer` in `localStorage` with the key `data
 34. ## Data Storage:
 Save the HTML content of listContainer to `localStorage`, which allows retrieval and display of the list upon page refresh.
 
-18. ### Call `saveData():
+18. ### Call `saveData()`:
 After adding the task, call `saveData()` to store the updated list in localStorage.
 
-25 .### Call `saveData()`:
+25. ### Call `saveData()`:
 Save the updated state to `localStorage` since the class `checked` may be added.
 
 29. ### Call `saveData()`:
